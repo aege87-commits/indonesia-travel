@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://aege87-commits.github.io/indonesia-travel/sitemap.xml
